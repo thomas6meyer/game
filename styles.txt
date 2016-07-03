@@ -1,0 +1,5 @@
+__BoyStyles__          = [['General','required'], ['Bow','required'], ['Polearm','required'], ['Chivalric','required'], ['Boxing','required']]
+__ManAtArmsStyles__    =  __BoyStyles__ + [['Karatejutsu','optional'], ['Florentine','optional'], ['Kenjutsu','optional'], ['Riding','required']]
+__SergeantStyles__     = __ManAtArmsStyles__ + [['Aikijutsu','optional'], ['Great Weapon','optional'], ['Naginata','optional'], ['Staff','optional']]
+__BachelorStyles__     = __SergeantStyles__ + [['Thrown Blade','optional']]
+__MasterAtArmsStyles__ = __BachelorStyles__

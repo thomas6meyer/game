@@ -1,0 +1,19 @@
+Style,Base_Complexity,Num_Hands,nCards,Desc
+Aikijutsu,3,2,7000,
+Bow,1,2,5000,"Launch arrows using a bow, crossbow"
+Boxing,1,1,5000,Punching
+Chivalric,1,1,6000,Shield plus a hand weapon
+Fencing,1.5,1,7000,"One-handed with a blade, one weapon only"
+Florentine,2,1,8000,Two one-handed bladed weapons
+General,1,0,10000,Things common to all styles
+Great Weapon,1.5,2,7000,"Two-handed, not a polearm. Mostly  offensive, replies mainly on armor, not a polearm"
+Iaijutsu,4,2,5000,Attack with a sheathed blade
+Javelin,1.5,1,5000,Thrown spear
+Karatejutsu,2,2,8000,"Punches, kicks, blocks, parries"
+Kenjutsu,2,2,8000,Two-handed with slicing blade
+Naginata,2.25,2,8000,Polearm with katana for a blade
+Polearm,1.5,2,5000,"Halberd, pike, spear"
+Riding,1,2,5000,"Riding a horse, both hands on the reigns"
+Staff,2,2,8000,Like aikijutsu but with a staff
+Thrown Blade,2,2,5000,"Throwing ax, knife"
+Wrestling,1,2,5000,Grappling

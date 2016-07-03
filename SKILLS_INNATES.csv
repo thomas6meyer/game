@@ -1,0 +1,35 @@
+Skill,Innate,Weight
+Block,reflex,0.33
+Block,speed,0.2
+Block,strength,0.47
+Dodge,agility,0.33
+Dodge,reflex,0.33
+Dodge,speed,0.33
+Focus,pain tolerance,1
+Maneuver,agility,1
+Meditation,bravery,0.33
+Meditation,endurance,0.33
+Meditation,pain tolerance,0.33
+Parry,agility,0.5
+Parry,reflex,0.25
+Parry,speed,0.25
+Pin,agility,0.5
+Pin,reflex,0.5
+Rally,bravery,1
+Reconnaisance,perception,1
+Rest,endurance,1
+Shoot,perception,1
+Slice,agility,0.5
+Slice,speed,0.5
+Strike,speed,0.5
+Strike,strength,0.5
+Throw,agility,0.44
+Throw,reflex,0.13
+Throw,speed,0.43
+Throw Blade,agility,0.4
+Throw Blade,perception,0.34
+Throw Blade,strength,0.26
+Throw Point,agility,0.33
+Throw Point,perception,0.33
+Throw Point,strength,0.33
+Thrust,speed,1

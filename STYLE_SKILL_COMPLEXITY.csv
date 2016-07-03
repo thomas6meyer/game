@@ -1,0 +1,60 @@
+Style,Skill,Class,Skill_Complexity,Base_Percent,Mode,Num_Hands,Desc,Description
+Aikijutsu,Throw,combat,3,0.5,defense,2,,To throw an attacker to the ground
+Aikijutsu,Dodge,combat,2.5,0.2,defense,2,,To move out of the way of an incoming attack
+Aikijutsu,Pin,combat,2.75,0.3,defense,2,,To grab and hold an attacker so as to render them immobile
+Bow,Shoot,combat,2,1,offense,2,"Launch arrows using a bow, crossbow",To fire a weapon
+Boxing,Block,combat,0.75,0.2,defense,1,Punching,To stop an incoming attack
+Boxing,Strike,combat,1.25,0.8,offense,1,Punching,To hit with a mace/sword/etc
+Chivalric,Parry,combat,1.5,0.1,defense,1,Shield plus a hand weapon,To deflect an incoming attack
+Chivalric,Thrust,combat,1,0.2,offense,1,Shield plus a hand weapon,"To push a weapon at a target (punch, spear lunge)"
+Chivalric,Block,combat,0.75,0.3,defense,1,Shield plus a hand weapon,To stop an incoming attack
+Chivalric,Slice,combat,1.5,0.1,offense,1,Shield plus a hand weapon,To slide a blade along a target
+Chivalric,Strike,combat,1.25,0.3,offense,1,Shield plus a hand weapon,To hit with a mace/sword/etc
+Fencing,Parry,combat,2,0.2,defense,1,"One-handed with a blade, one weapon only",To deflect an incoming attack
+Fencing,Thrust,combat,1.5,0.2,offense,1,"One-handed with a blade, one weapon only","To push a weapon at a target (punch, spear lunge)"
+Fencing,Slice,combat,2,0.2,offense,1,"One-handed with a blade, one weapon only",To slide a blade along a target
+Fencing,Strike,combat,1.75,0.2,offense,1,"One-handed with a blade, one weapon only",To hit with a mace/sword/etc
+Fencing,Block,combat,1.25,0.2,defense,1,"One-handed with a blade, one weapon only",To stop an incoming attack
+Florentine,Block,combat,1.75,0.2,defense,1,Two one-handed bladed weapons,To stop an incoming attack
+Florentine,Strike,combat,2.25,0.2,offense,1,Two one-handed bladed weapons,To hit with a mace/sword/etc
+Florentine,Slice,combat,2.5,0.2,offense,1,Two one-handed bladed weapons,To slide a blade along a target
+Florentine,Thrust,combat,2,0.2,offense,1,Two one-handed bladed weapons,"To push a weapon at a target (punch, spear lunge)"
+Florentine,Parry,combat,2.5,0.2,defense,1,Two one-handed bladed weapons,To deflect an incoming attack
+General,Rest,combat,0.75,0.14,repair,0,Things common to all styles,To regain energy
+General,Reconnaisance,combat,1,0.14,scout,0,Things common to all styles,To take inventory of one's surroundings
+General,Maneuver,combat,0.75,0.14,move,0,Things common to all styles,To recover balance
+General,Dodge,combat,0.5,0.14,defense,0,Things common to all styles,To move out of the way of an incoming attack
+General,Rally,combat,3,0.14,repair,0,Things common to all styles,To gather one's wits from being scared or otherwise disoriented or confused
+General,Focus,combat,2,0.14,repair,0,Things common to all styles,To recover from pain
+General,Meditation,combat,3,0.14,repair,0,Things common to all styles,"focus, rally, rest combined"
+Great Weapon,Thrust,combat,1.5,0.15,offense,2,"Two-handed, not a polearm. Mostly  offensive, replies mainly on armor, not a polearm","To push a weapon at a target (punch, spear lunge)"
+Great Weapon,Block,combat,1.25,0.4,defense,2,"Two-handed, not a polearm. Mostly  offensive, replies mainly on armor, not a polearm",To stop an incoming attack
+Great Weapon,Parry,combat,2,0.05,defense,2,"Two-handed, not a polearm. Mostly  offensive, replies mainly on armor, not a polearm",To deflect an incoming attack
+Great Weapon,Strike,combat,1.75,0.4,offense,2,"Two-handed, not a polearm. Mostly  offensive, replies mainly on armor, not a polearm",To hit with a mace/sword/etc
+Iaijutsu,Slice,combat,4.5,1,offense,2,Attack with a sheathed blade,To slide a blade along a target
+Javelin,Throw Point,combat,3.5,1,offense,1,Thrown spear,"To throw something, like a javelin or a hatchet or a knife"
+Karatejutsu,Dodge,combat,1.5,0.25,defense,2,"Punches, kicks, blocks, parries",To move out of the way of an incoming attack
+Karatejutsu,Block,combat,1.75,0.25,defense,2,"Punches, kicks, blocks, parries",To stop an incoming attack
+Karatejutsu,Parry,combat,2.5,0.25,defense,2,"Punches, kicks, blocks, parries",To deflect an incoming attack
+Karatejutsu,Strike,combat,2.25,0.25,offense,2,"Punches, kicks, blocks, parries",To hit with a mace/sword/etc
+Kenjutsu,Parry,combat,2.5,0.25,defense,2,Two-handed with slicing blade,To deflect an incoming attack
+Kenjutsu,Slice,combat,2.5,0.25,offense,2,Two-handed with slicing blade,To slide a blade along a target
+Kenjutsu,Dodge,combat,1.5,0.25,defense,2,Two-handed with slicing blade,To move out of the way of an incoming attack
+Kenjutsu,Thrust,combat,2,0.25,offense,2,Two-handed with slicing blade,"To push a weapon at a target (punch, spear lunge)"
+Naginata,Slice,combat,2.75,0.25,offense,2,Polearm with katana for a blade,To slide a blade along a target
+Naginata,Block,combat,2,0.25,defense,2,Polearm with katana for a blade,To stop an incoming attack
+Naginata,Parry,combat,2.75,0.25,defense,2,Polearm with katana for a blade,To deflect an incoming attack
+Naginata,Thrust,combat,2.25,0.25,offense,2,Polearm with katana for a blade,"To push a weapon at a target (punch, spear lunge)"
+Polearm,Thrust,combat,1.5,0.33,offense,2,"Halberd, pike, spear","To push a weapon at a target (punch, spear lunge)"
+Polearm,Strike,combat,1.75,0.33,offense,2,"Halberd, pike, spear",To hit with a mace/sword/etc
+Polearm,Parry,combat,2,0.33,defense,2,"Halberd, pike, spear",To deflect an incoming attack
+Riding,Maneuver,combat,0.75,1,move,2,"Riding a horse, both hands on the reigns",To recover balance
+Staff,Thrust,combat,2,0.16,offense,2,Like aikijutsu but with a staff,"To push a weapon at a target (punch, spear lunge)"
+Staff,Throw,combat,2,0.16,defense,2,Like aikijutsu but with a staff,To throw an attacker to the ground
+Staff,Block,combat,1.75,0.16,defense,2,Like aikijutsu but with a staff,To stop an incoming attack
+Staff,Strike,combat,2.25,0.16,offense,2,Like aikijutsu but with a staff,To hit with a mace/sword/etc
+Staff,Parry,combat,2.5,0.16,defense,2,Like aikijutsu but with a staff,To deflect an incoming attack
+Staff,Pin,combat,1.75,0.16,defense,2,Like aikijutsu but with a staff,To grab and hold an attacker so as to render them immobile
+Thrown Blade,Throw Blade,combat,4,1,offense,2,"Throwing ax, knife","To throw something, like a javelin or a hatchet or a knife"
+Wrestling,Pin,combat,0.75,0.8,defense,2,Grappling,To grab and hold an attacker so as to render them immobile
+Wrestling,Throw,combat,1,0.2,defense,2,Grappling,To throw an attacker to the ground
